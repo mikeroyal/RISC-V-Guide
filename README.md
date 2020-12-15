@@ -10,6 +10,8 @@
 
 [RISC-V Foundation](https://riscv.org/) is a non-profit corporation controlled by its 500 members(NVIDIA, Google, Samsung, Raspberry Pi, SiFive, Canonical, and Western Digital) to drive forward the adoption and implementation of the free and open RISC-V instruction set architecture (ISA).
 
+[SiFive](https://www.sifive.com/) is a semiconductor company that produces complete RISC-V processors IP with pre-integrated SiFive Shield, for whole SoC security, and SiFive Insight advanced trace and debug. 
+
 [The RISC-V Instruction Set Manual](https://riscv.org/wp-content/uploads/2019/12/riscv-spec-20191213.pdf)
 
 [RISC-V Cores and SoC Overview](https://riscv.org/risc-v-cores/)
@@ -23,8 +25,6 @@
 [RISC-V Learn Online Courses](https://riscv.org/community/learn/risc-v-learn-online/)
 
 [RISC-V Training Partner Program](https://riscv.org/exchange/training-partner-program/)
-
-[SiFive](https://www.sifive.com/) is a semiconductor company that produces complete RISC-V processors IP with pre-integrated SiFive Shield, for whole SoC security, and SiFive Insight advanced trace and debug. 
 
 [SiFive Academy RISC-V Course](https://www.sifiveacademy.com/)
 
