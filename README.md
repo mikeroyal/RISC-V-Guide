@@ -6,11 +6,144 @@
 
 #### A guide covering the RISC-V Architecture including the applications, libraries and tools that will make you a better and more efficient developer with the RISC-V ISA.
 
+
+[Checkout the HiFive Unmatched Developement board](https://www.sifive.com/boards/hifive-unmatched)
+
+<img src="https://user-images.githubusercontent.com/45159366/104135527-ea149b80-5345-11eb-902a-f07b7bd0b99b.png">
+
+**HiFive Unmatched Hardware Specs**
+
+**SoC:** SiFive Freedom U740 SoC
+
+**Memory:** 16GB DDR4
+
+**Flash Memory: ** 32MB Quad SPI Flash
+
+**Removable Storage:** MicroSD Card
+
+**Networking:** Gigabit Ethernet Port
+
+**User I/O**
+
+ - 4x USB 3.2 Gen 1 Type A Ports (1 Charging Port)
+
+ - 1x MicroUSB Console Port
+
+**Expansion Capabilities**
+
+ - x16 PCIe® Gen 3 Expansion Slot (8-lanes Useable)
+
+ - M.2 M-Key Slot (PCIe Gen 3 x4) for NVME 2280 SSD Module
+
+ - M.2 E-Key Slot (PCIe Gen 3 x1) for Wi-Fi / Bluetooth Module
+
+**Board Form Factor:** Industry Standard Mini-ITX
+
+
+[Checkout the HiFive1 Rev B Developement board](https://www.sifive.com/boards/hifive1-rev-b)
+
+<img src="https://user-images.githubusercontent.com/45159366/104135528-eb45c880-5345-11eb-8e47-22acd5a90e01.jpg">
+
+**HiFive1 Rev B Hardware Specs**
+
+**Microcontroller:** [FE310-G002](https://sifive.com/chip-designer#fe310)
+
+**Operating Voltage:** 3.3 V and 1.8 V
+
+**Input Voltage:** 5 V USB or 7-12 VDC Jack
+
+**IO Voltage:** 3.3 V
+
+**Digital I/O Pins:** 19
+
+**PWM Pins:** 9
+
+**SPI Controllers/HW CS Pins:** 1/3
+
+**UART:** 2
+
+**I2C:** 1
+
+**Networking:** WiFi/BT (off-chip)
+
+**External Interrupt Pins:** 19
+
+**External Wakeup Pins:** 1
+
+**Flash Memory:** 32 Mbit Off-Chip (ISSI SPI Flash)
+
+**Host Interface (microUSB):** Program, Debug, and Serial Communication
+
+
+[Checkout the Sipeed Maixduino Kit for RISC-V AI + IoT](https://www.seeedstudio.com/sipeed-maix.html)
+
+[MAIX AI module](https://www.seeedstudio.com/Sipeed-MAIX-I-module-WiFi-version-1st-RISC-V-64-AI-Module-K210-inside-p-3206.html)
+
+<img src="https://user-images.githubusercontent.com/45159366/104135531-ed0f8c00-5345-11eb-9c7d-d77f97bc16d5.jpeg">
+
+
+**Sipeed Maixduino Kit Hardware Specs**
+
+ - **CPU:** RISC-V Dual Core 64bit, with FPU; 400MHz neural network processor
+
+ - QVGA@60FPS/VGA@30FPS image identification
+
+ - Onboard ESP32 module support 2.4G 802.11. b/g/n and Bluetooth 4.2
+
+ - [Arduino Uno](https://store.arduino.cc/usa/arduino-uno-rev3) form factor, Arduino compatible interface
+
+ - Onboard omnidirectional I2S digital output MEMS Microphone
+
+ - 24P 0.5mm FPC connector for DVP Camera
+
+ - 8-bit MCU LCD 24P 0.5mm FPC connector
+
+ - Support self-elastic micro SD card holder
+ 
+ - High performance microphone array processor for machine hearing
+ 
+ - Support MaixPy IDE, Arduino IDE, OpenMV IDE, and PlatformIO IDE
+ 
+ - Support Tiny-Yolo, Mobilenet and TensorFlow Lite for deep learning
+ 
+ 
+[Checkout the RTG4 Development Kit board from Microsemi](https://www.microsemi.com/product-directory/dev-kits-solutions/3865-rtg4-kits)
+
+ <img src="https://user-images.githubusercontent.com/45159366/104135532-ee40b900-5345-11eb-9830-f57fe6d94f6f.jpeg">
+
+
+**RTG4 Development Kit Hardware Specs**
+
+ - Two 1GB DDR3 synchronous dynamic random access memory (SDRAM)
+ 
+ - 2GB SPI flash memory
+ 
+ - PCI Express Gen 1 x1 interface
+ 
+ - PCIe x4 edge connector
+ 
+ - One pair SMA connectors for testing of the full-duplex SERDES channel
+
+ - Two FMC connectors with HPC/LPC pinout for expansion
+
+ - RJ45 interface for 10/100/1000 Ethernet
+ 
+ - USB micro-AB connector
+
+ - Headers for SPI, GPIOs
+
+ - FTDI programmer interface to program the external SPI flash
+
+ - JTAG programming interface
+ 
+
 ## Resources
 
 [RISC-V Foundation](https://riscv.org/) is a non-profit corporation controlled by its 500 members(NVIDIA, Google, Samsung, Raspberry Pi, SiFive, Canonical, and Western Digital) to drive forward the adoption and implementation of the free and open RISC-V instruction set architecture (ISA).
 
 [SiFive](https://www.sifive.com/) is a semiconductor company that produces complete RISC-V processors IP with pre-integrated SiFive Shield, for whole SoC security, and SiFive Insight advanced trace and debug. 
+
+[IAR Systems](https://www.iar.com/) is a company that enables Linux-based Continuous Integration and automated workflows for embedded systems(ARM & RISC-V).
 
 [The RISC-V Instruction Set Manual](https://riscv.org/wp-content/uploads/2019/12/riscv-spec-20191213.pdf)
 
@@ -21,8 +154,6 @@
 [RISC-V Development Board and RISC-V CPU](https://risc-v.ca)
 
 [RISC-V CPUs from Microsemi](https://www.microsemi.com/product-directory/mi-v-risc-v-ecosystem/4406-risc-v-cpus#overview)
-
-[IAR Systems](https://www.iar.com/) is a company that enables Linux-based Continuous Integration and automated workflows for embedded systems(ARM & RISC-V).
 
 [RISC-V Community](https://riscv.org/community/)
 
