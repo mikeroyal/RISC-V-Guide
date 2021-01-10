@@ -16,6 +16,14 @@
 
 [RISC-V Cores and SoC Overview](https://riscv.org/risc-v-cores/)
 
+[Software development kits, Toolchains and Utilities for RISC-V devices](https://www.sifive.com/software)
+
+[RISC-V Development Board and RISC-V CPU](https://risc-v.ca)
+
+[RISC-V CPUs from Microsemi](https://www.microsemi.com/product-directory/mi-v-risc-v-ecosystem/4406-risc-v-cpus#overview)
+
+[IAR Systems](https://www.iar.com/) is a company that enables Linux-based Continuous Integration and automated workflows for embedded systems(ARM & RISC-V).
+
 [RISC-V Community](https://riscv.org/community/)
 
 [RISC-V Main Members Group](https://lists.riscv.org/g/main)
