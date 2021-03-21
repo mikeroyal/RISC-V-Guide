@@ -10,13 +10,13 @@
 
 # Table of Contents
 
-1. [Models of RISC-V boards](https://github.com/mikeroyal/raspberry-pi-Guide/blob/main/README.md#models-of-risc-v-boards)
+1. [Models of RISC-V boards](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#models-of-risc-v-boards)
 
-2. [RISC-V Learning Resources](https://github.com/mikeroyal/raspberry-pi-Guide/blob/main/README.md#risc-v-learning-resources)
+2. [RISC-V Learning Resources](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#risc-v-learning-resources)
 
-3. [RISC-V Operating Systems](https://github.com/mikeroyal/raspberry-pi-Guide/blob/main/README.md#risc-v-operating-systems)
+3. [RISC-V Operating Systems](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#risc-v-operating-systems)
 
-4. [RISC-V Tools](https://github.com/mikeroyal/raspberry-pi-Guide/blob/main/README.md#risc-v-tools)
+4. [RISC-V Tools](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#risc-v-tools)
 
 
 <p align="center">
