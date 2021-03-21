@@ -6,6 +6,26 @@
 
 #### A guide covering the RISC-V Architecture including the applications, libraries and tools that will make you a better and more efficient developer with the RISC-V ISA.
 
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+
+# Table of Contents
+
+1. [Models of RISC-V boards](https://github.com/mikeroyal/raspberry-pi-Guide/blob/main/README.md#models-of-risc-v-boards)
+
+2. [RISC-V Learning Resources](https://github.com/mikeroyal/raspberry-pi-Guide/blob/main/README.md#risc-v-learning-resources)
+
+3. [RISC-V Operating Systems](https://github.com/mikeroyal/raspberry-pi-Guide/blob/main/README.md#risc-v-operating-systems)
+
+4. [RISC-V Tools](https://github.com/mikeroyal/raspberry-pi-Guide/blob/main/README.md#risc-v-tools)
+
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/111917667-8b068d80-8a3e-11eb-9c0d-5ca40c81eb57.jpeg">
+</p>
+
+# Models of RISC-V boards
+
+[Back to the Top](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#table-of-contents)
 
 [Checkout the HiFive Unmatched Developement board](https://www.sifive.com/boards/hifive-unmatched)
 
@@ -137,7 +157,10 @@
  - JTAG programming interface
  
 
-## Resources
+# RISC-V Learning Resources
+
+[Back to the Top](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#table-of-contents)
+
 
 [RISC-V Foundation](https://riscv.org/) is a non-profit corporation controlled by its 500 members(NVIDIA, Google, Samsung, Raspberry Pi, SiFive, Canonical, and Western Digital) to drive forward the adoption and implementation of the free and open RISC-V instruction set architecture (ISA).
 
@@ -148,6 +171,8 @@
 [The RISC-V Instruction Set Manual](https://riscv.org/wp-content/uploads/2019/12/riscv-spec-20191213.pdf)
 
 [RISC-V Cores and SoC Overview](https://riscv.org/risc-v-cores/)
+
+[Optimizing OpenCV for the RISC-V Architecture](https://opencv.org/optimizing-opencv-for-the-risc-v-architecture/)
 
 [Software development kits, Toolchains and Utilities for RISC-V devices](https://www.sifive.com/software)
 
@@ -173,7 +198,34 @@
 
 [RISC-V Design Verification Strategy](https://verificationacademy.com/verification-horizons/november-2020-volume-16-issue-3/risc-v-design-verification-strategy)
 
-## Tools
+# RISC-V Operating Systems
+
+[Back to the Top](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#table-of-contents)
+
+
+[RISC-V - Ubuntu Wiki](https://wiki.ubuntu.com/RISC-V)
+
+[RISC-V - Kubuntu Wiki](https://wiki.kubuntu.org/RISC-V)
+
+[RISC-V - Debian Wiki](https://wiki.debian.org/RISC-V)
+
+[RISC-V - Fedora Project Wiki](fedoraproject.org/wiki/Architectures/RISC-V)
+
+[RISC-V - openSUSE Wiki](https://en.opensuse.org/openSUSE:RISC-V)
+
+[RISC-V - Arch Linux](https://archlinux.org/groups/x86_64/risc-v/)
+
+[Manjaro ARM](https://wiki.manjaro.org/index.php/Manjaro-ARM)
+
+ [Zephyr OS](https://www.zephyrproject.org/zephyr-rtos-featured-in-risc-v-getting-started-guide/) is a popular security-oriented RTOS with a small-footprint kernel designed for use on resource-constrained and embedded systems.
+
+## RISC-V Tools
+
+[Back to the Top](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#table-of-contents)
+
+[Ashling RiscFree™ C/C++ for RISC-V](https://www.sifive.com/software) is a fully integrated development tool environment that includes an IDE, compiler, debugger, and Opella-XD JTAG probe ready to use with SiFive's RISC-V Core IP products. 
+
+[RISCVEMU](https://riscv.org/software-tools/riscvemu/) is a system emulator developed by Fabrice Bellard for the RISC-V architecture. Its purpose is to be small and simple while being complete. Among its features are the support of 128 bit addressing and 128 bit floating point which makes the emulator ready for the future.
 
 [RISC-V Interpreter](http://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/) is a online Interpreter for RISC-V build by Cornell University.
 
@@ -212,3 +264,13 @@
 [Maixpy](https://maixpy.sipeed.com/) is designed to make AIOT programming easier with Micropython running on the embedded AIOT chip [K210](https://kendryte.com/).
 
 [DarkRISCV](https://github.com/darklife/darkriscv) is an open souce RISC-V cpu core implemented in Verilog from scratch.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/RISC-V-Guide/pulls).
+
+
+## License
+[Back to the Top](https://github.com/mikeroyal/RSIC-V-Guide/blob/master/README.md#table-of-contents)
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
