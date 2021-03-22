@@ -202,22 +202,69 @@
 
 [Back to the Top](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#table-of-contents)
 
-
 [RISC-V - Ubuntu Wiki](https://wiki.ubuntu.com/RISC-V)
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/106686328-f5db3280-657e-11eb-9109-88a1df99983a.png">
+  <br />
+</h1>
 
 [RISC-V - Kubuntu Wiki](https://wiki.kubuntu.org/RISC-V)
 
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/112046427-40057c80-8b09-11eb-856f-9233f55d691f.png">
+  <br />
+</h1>
+
 [RISC-V - Debian Wiki](https://wiki.debian.org/RISC-V)
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/107439775-73ef8a00-6ae7-11eb-9037-6aa910fc3c74.png">
+  <br />
+</h1>
 
 [RISC-V - Fedora Project Wiki](fedoraproject.org/wiki/Architectures/RISC-V)
 
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/107158827-70220300-6941-11eb-917b-dbdb7142a13b.png">
+  <br />
+</h1>
+
+
 [RISC-V - openSUSE Wiki](https://en.opensuse.org/openSUSE:RISC-V)
 
-[RISC-V - Arch Linux](https://archlinux.org/groups/x86_64/risc-v/)
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/110253145-a00ef700-7f3d-11eb-9b5c-d3cee3cbce84.png">
+  <br />
+</h1>
+
+[SUSE Wiki](https://documentation.suse.com/)
+
+ <h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/110253144-9f766080-7f3d-11eb-9a01-2ac6738637e9.png">
+  <br />
+</h1>
 
 [Manjaro ARM](https://wiki.manjaro.org/index.php/Manjaro-ARM)
 
- [Zephyr OS](https://www.zephyrproject.org/zephyr-rtos-featured-in-risc-v-getting-started-guide/) is a popular security-oriented RTOS with a small-footprint kernel designed for use on resource-constrained and embedded systems.
+ <h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/110054438-f3036700-7d0f-11eb-88bc-dab9b262c097.png">
+  <br />
+</h1>
+
+[EndeavourOS Wiki](https://endeavouros.com/wiki/)
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/107439882-9e414780-6ae7-11eb-819e-e87e7bcc7a97.png">
+  <br />
+</h1>
+
+[Zephyr OS](https://www.zephyrproject.org/zephyr-rtos-featured-in-risc-v-getting-started-guide/) is a popular security-oriented RTOS with a small-footprint kernel designed for use on resource-constrained and embedded systems. Zephyr has a small-foorprint Kernel focusing on embedded devices compatible with x86, ARM, RISC-V, Xtensa and [others](https://docs.zephyrproject.org/latest/boards/index.html).
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/112046437-4267d680-8b09-11eb-958d-7a5875f6593a.png">
+</p>
+
 
 ## RISC-V Tools
 
