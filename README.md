@@ -43,7 +43,7 @@
 
 [Back to the Top](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#table-of-contents)
 
-[BeagleV™](https://beaglev.seeed.cc)
+[Checkout the BeagleV™ board](https://beaglev.seeed.cc)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/112774038-2f637380-8fed-11eb-8cb8-396160f995c2.png">
