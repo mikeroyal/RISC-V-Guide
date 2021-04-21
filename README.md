@@ -1049,7 +1049,7 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 # FPGA Development
 
-[Back to the Top](https://github.com/mikeroyal/RSIC-V-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/104069966-ab060f00-51ba-11eb-8295-d3479b485c86.png">
@@ -1169,7 +1169,7 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 # Verilog/SystemVerilog Development
 
-[Back to the Top](https://github.com/mikeroyal/RSIC-V-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/102273517-4b785480-3ed7-11eb-910a-113821428f17.png">
@@ -1238,6 +1238,7 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 
 ## License
-[Back to the Top](https://github.com/mikeroyal/RSIC-V-Guide/blob/main/README.md#table-of-contents)
+
+[Back to the Top](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#table-of-contents)
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
