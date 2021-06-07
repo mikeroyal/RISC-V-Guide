@@ -40,7 +40,7 @@
 
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/111917667-8b068d80-8a3e-11eb-9c0d-5ca40c81eb57.jpeg">
+ <img src="https://user-images.githubusercontent.com/45159366/121087082-d35d5e00-c798-11eb-94bb-58bf863bd724.png">
 </p>
 
 # Models of RISC-V boards
@@ -1229,7 +1229,6 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 [Cascade](https://github.com/vmware/cascade) is a Just-In-Time Compiler for Verilog from VMware Research. Cascade executes code immediately in a software simulator, and performs compilation in the background. When compilation is finished, the code is moved into hardware, and from the user’s perspective it simply gets faster over time.
 
 [OpenTimer](https://github.com/OpenTimer/OpenTimer) is a High-Performance Timing Analysis Tool for VLSI Systems.
-
 
 
 ## Contribute
