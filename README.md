@@ -34,8 +34,6 @@
 
 12. [Networking](https://github.com/mikeroyal/RISC-V-Guide/blob/main/README.md#networking)
 
-[Home Media Server](https://github.com/mikeroyal/RISC-V-Guide/blob/main/README.md#home-media-server)
-
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/121087082-d35d5e00-c798-11eb-94bb-58bf863bd724.png">
 </p>
@@ -634,11 +632,6 @@
 # Telco 5G Development
 [Back to the Top](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#table-of-contents)
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/123559224-9c52ea80-d74f-11eb-93df-3bce6e378c9f.png">
-  <br />
-</p>
-
  <img src="https://user-images.githubusercontent.com/45159366/105409952-14881380-5be6-11eb-84fc-b07db69698ed.png">
 
  **VMware Cloud First Approach. Source: [VMware](https://www.vmware.com/products/telco-cloud-automation.html).**
@@ -1202,24 +1195,6 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 [Packer](https://www.packer.io/) is an open source tool for creating identical machine images for multiple platforms from a single source configuration. Packer is lightweight, runs on every major operating system, and is highly performant, creating machine images for multiple platforms in parallel. Packer does not replace configuration management like Chef or Puppet. In fact, when building images, Packer is able to use tools like Chef or Puppet to install software onto the image.
 
 [Vagrant](https://www.vagrantup.com/) is a tool for building and managing virtual machine environments in a single workflow. With an easy-to-use workflow and focus on automation, Vagrant lowers development environment setup time, increases production parity, and makes the "works on my machine" excuse a relic of the past. It provides easy to configure, reproducible, and portable work environments built on top of industry-standard technology and controlled by a single consistent workflow to help maximize the productivity and flexibility of you and your team.
-
-# Home Media Server
-
-[Back to the Top](https://github.com/mikeroyal/RISC-V-Guide/blob/main/README.md#table-of-contents)
-
-[ReadyMedia (previously MiniDLNA)](https://wiki.archlinux.org/index.php/ReadyMedia) is server software with the aim of being fully compliant with DLNA / UPnP clients. The MiniDNLA daemon serves media files (music, pictures, and video) to clients on a network.
-
-[Kodi (formerly XBMC)](https://kodi.tv/) is a free and open source media player and entertainment hub for digital media for HTPCs (Home theater PCs) application developed by the XBMC/Kodi Foundation. It uses a 10-foot user interface designed to be a media player for the living-room, using a remote control as the primary input device.
-
-[Plex Media Server](https://www.plex.tv/) is an application that scans and organizes your media(music, videos, and other media files), then lets you stream it to all of your devices(computers, smartphones, tablets, televisions, streaming devices, and game consoles).
-
-[OpenMediaVault](https://www.openmediavault.org/) is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more.
-
-[Pi Music Box](https://www.pimusicbox.com/) is an application that turns your Raspberry Pi into music player for streaming Spotify, Google Music, SoundCloud, Webradio, Podcasts and other music from the cloud. Also, stream your own collection from a device in your local network.
-
-[Emby](https://emby.media/) is a media server designed to organize, play, and stream audio and video to a variety of devices(Android TV, Amazon Fire TV, Chromecast, Roku, Xbox, Home Theater Computers, and more). 
-
-[Jellyfin](https://jellyfin.org/) is a volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached. 
 
 ## Contribute
 
