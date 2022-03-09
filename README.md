@@ -325,6 +325,8 @@
 
 [Back to the Top](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#table-of-contents)
 
+[RISC-V Studio™ Integrated Development Environment (IDE)](https://riscv.studio) is a flexible and highly configurable software environment that helps the RISC-V developers discover, configure, develop, debug and deploy system designs utilizing open-source and commercial RISC-V IPs and platforms.
+
 [Ashling RiscFree™ C/C++ for RISC-V](https://www.sifive.com/software) is a fully integrated development tool environment that includes an IDE, compiler, debugger, and Opella-XD JTAG probe ready to use with SiFive's RISC-V Core IP products. 
 
 [RISCVEMU](https://riscv.org/software-tools/riscvemu/) is a system emulator developed by Fabrice Bellard for the RISC-V architecture. Its purpose is to be small and simple while being complete. Among its features are the support of 128 bit addressing and 128 bit floating point which makes the emulator ready for the future.
