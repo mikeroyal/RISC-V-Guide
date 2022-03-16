@@ -273,7 +273,7 @@
   <br />
 </h1>
 
-[RISC-V - Fedora Project Wiki](fedoraproject.org/wiki/Architectures/RISC-V)
+[RISC-V - Fedora Project Wiki](https://fedoraproject.org/wiki/Architectures/RISC-V)
 
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/107158827-70220300-6941-11eb-917b-dbdb7142a13b.png">
