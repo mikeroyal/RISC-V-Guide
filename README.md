@@ -248,6 +248,8 @@
 
 [RISC-V Design Verification Strategy](https://verificationacademy.com/verification-horizons/november-2020-volume-16-issue-3/risc-v-design-verification-strategy)
 
+[Digital Design with Chisel Book](https://github.com/schoeberl/chisel-book)
+
 # RISC-V Operating Systems
 
 [Back to the Top](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#table-of-contents)
@@ -325,6 +327,18 @@
 
 [Back to the Top](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#table-of-contents)
 
+[Rocket Chip Generator](https://github.com/chipsalliance/rocket-chip) is a repository contains the Rocket chip generator necessary to instantiate the RISC-V Rocket Core.
+
+[CORE-V CVA6](https://github.com/openhwgroup/cva6) is an application class 6-stage RISC-V CPU capable of booting Linux.
+
+[Cores-SweRV](https://github.com/chipsalliance/Cores-SweRV) is the EH1 RISC-V SweRV CoreTM 1.9 from Western Digital. 
+
+[VRoom](https://github.com/MoonbaseOtago/vroom) is a new high-end RISC-V CPU implementation.
+
+[FireSim](https://fires.im/) is an open-source cycle-accurate FPGA-accelerated full-system hardware simulation platform that runs on cloud FPGAs (Amazon EC2 F1).
+
+[GAP SDK](https://github.com/GreenWaves-Technologies/gap_sdk) is set of tools and libraries that allows you to compile and execute applications on the GAP IoT Application Processor. This SDK provides a development environment for the GAP series processors.
+
 [RISC-V Studio™ Integrated Development Environment (IDE)](https://riscv.studio) is a flexible and highly configurable software environment that helps the RISC-V developers discover, configure, develop, debug and deploy system designs utilizing open-source and commercial RISC-V IPs and platforms.
 
 [Ashling RiscFree™ C/C++ for RISC-V](https://www.sifive.com/software) is a fully integrated development tool environment that includes an IDE, compiler, debugger, and Opella-XD JTAG probe ready to use with SiFive's RISC-V Core IP products. 
@@ -335,15 +349,22 @@
 
 [Chipyard](https://chipyard.readthedocs.io/en/latest/) is an open source framework for agile development of Chisel-based systems-on-chip. It will allow you to leverage the Chisel HDL, Rocket Chip SoC generator, and other [Berkeley](https://berkeley.edu/) projects to produce a RISC-V SoC with everything from MMIO-mapped peripherals to custom accelerators.
 
+[BRISC-V Explorer](https://ascslab.org/research/briscv/explorer/explorer.html) is a RISC-V CPU simulator application that runs in a browser allowing users to easily run it on Windows, Linux or Mac. In the BRISC-V Explorer, users can 
+
+  - 1. Select their desired core type.
+  - 2. Enter parameters such as memory size for that core.
+  - 3. Configure cache parameters including block size and associativity.
+  
+ 
+[Ripes](https://github.com/mortbopet/Ripes) is a graphical processor simulator and assembly editor for the RISC-V instruction set architecture(ISA).
+
+[OpenHW Group's RISC-V Virtual Machine (riscv_vm)](https://github.com/openhwgroup/riscv_vm/) is a set of instructions to import Ubuntu guest Virtual Machine for RISC-V development for the VEGA board. It's intended for anyone wanting to study, configure as-preferred, modify, implement or release hardware based the RISC-V Instruction Set Architecture. The VM is preconfigured for RISC-V HW development. 
+
 [The Eclipse Embedded CDT](https://github.com/eclipse-embed-cdt/eclipse-plugins) is a collection of plug-ins for Arm & RISC-V C/C++ developers.
 
 [PlatformIO](https://platformio.org/) is a professional collaborative platform for embedded development with no vendor lock-in. It provides support for multiplatforms and frameworks such as IoT, Arduino, CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, Pulp OS, SPL, STM32Cube, Zephyr RTOS, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), NXP i.MX RT, PIC32, RISC-V.
 
 [PlatformIO for VSCode](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide) is a plugin that provides support for the PlatformIO IDE on VSCode.
-
-[Ripes](https://github.com/mortbopet/Ripes) is a graphical processor simulator and assembly editor for the RISC-V instruction set architecture(ISA).
-
-[FireSim](https://github.com/firesim/firesim) is an easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation.
 
 [Tock](https://www.tockos.org/) is an embedded operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M and RISC-V based embedded platforms. Tock's design centers around protection, both from potentially malicious applications and from device drivers. 
 
