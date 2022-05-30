@@ -13,6 +13,9 @@
 1. [Models of RISC-V boards](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#models-of-risc-v-boards)
 
 2. [RISC-V Learning Resources](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#risc-v-learning-resources)
+     - [Developer Resources](https://github.com/mikeroyal/RISC-V-Guide#developer-resources)
+     - [Learning/Training Courses](https://github.com/mikeroyal/RISC-V-Guide#learningtraining-courses)
+     - [Books](https://github.com/mikeroyal/RISC-V-Guide#books)
 
 3. [RISC-V Operating Systems](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#risc-v-operating-systems)
 
@@ -218,110 +221,99 @@
 
 [IAR Systems](https://www.iar.com/) is a company that enables Linux-based Continuous Integration and automated workflows for embedded systems(ARM & RISC-V).
 
-[The RISC-V Instruction Set Manual](https://riscv.org/wp-content/uploads/2019/12/riscv-spec-20191213.pdf)
+### Developer Resources
+[Back to the Top](https://github.com/mikeroyal/risc-v-Guide#table-of-contents)
 
-[RISC-V Cores and SoC Overview](https://riscv.org/risc-v-cores/)
+- [RISC-V Cores and SoC Overview](https://riscv.org/risc-v-cores/)
 
-[Optimizing OpenCV for the RISC-V Architecture](https://opencv.org/optimizing-opencv-for-the-risc-v-architecture/)
+- [Optimizing OpenCV for the RISC-V Architecture](https://opencv.org/optimizing-opencv-for-the-risc-v-architecture/)
 
-[Software development kits, Toolchains and Utilities for RISC-V devices](https://www.sifive.com/software)
+- [Software development kits, Toolchains and Utilities for RISC-V devices](https://www.sifive.com/software)
 
-[RISC-V Development Board and RISC-V CPU](https://risc-v.ca)
+- [RISC-V Development Board and RISC-V CPU](https://risc-v.ca)
 
-[RISC-V CPUs from Microsemi](https://www.microsemi.com/product-directory/mi-v-risc-v-ecosystem/4406-risc-v-cpus#overview)
+- [RISC-V CPUs from Microsemi](https://www.microsemi.com/product-directory/mi-v-risc-v-ecosystem/4406-risc-v-cpus#overview)
 
-[RISC-V Community](https://riscv.org/community/)
+- [RISC-V Community](https://riscv.org/community/)
 
-[RISC-V Main Members Group](https://lists.riscv.org/g/main)
+- [RISC-V Main Members Group](https://lists.riscv.org/g/main)
 
-[RISC-V Global Forum](https://events.linuxfoundation.org/riscv-global-forum/)
+- [RISC-V Global Forum](https://events.linuxfoundation.org/riscv-global-forum/)
 
-[RISC-V Learn Online Courses](https://riscv.org/community/learn/risc-v-learn-online/)
+### Learning/Training Courses
+[Back to the Top](https://github.com/mikeroyal/risc-v-Guide#table-of-contents)
 
-[RISC-V Training Partner Program](https://riscv.org/exchange/training-partner-program/)
+- [RISC-V Learn Online Courses](https://riscv.org/community/learn/risc-v-learn-online/)
 
-[SiFive Academy RISC-V Course](https://www.sifiveacademy.com/)
+- [RISC-V Training Partner Program](https://riscv.org/exchange/training-partner-program/)
 
-[Risc-V Courses on Udemy](https://www.udemy.com/topic/risc-v/)
+- [SiFive Academy RISC-V Course](https://www.sifiveacademy.com/)
 
-[Imagination Technologies Announces the First RISC-V Computer Architecture Course](https://riscv.org/news/2020/09/imagination-announces-the-first-risc-v-computer-architecture-course/)
+- [Risc-V Courses on Udemy](https://www.udemy.com/topic/risc-v/)
 
-[RISC-V Design Verification Strategy](https://verificationacademy.com/verification-horizons/november-2020-volume-16-issue-3/risc-v-design-verification-strategy)
+- [Imagination Technologies Announces the First RISC-V Computer Architecture Course](https://riscv.org/news/2020/09/imagination-announces-the-first-risc-v-computer-architecture-course/)
 
-[Digital Design with Chisel Book](https://github.com/schoeberl/chisel-book)
+ - [RISC-V Design Verification Strategy](https://verificationacademy.com/verification-horizons/november-2020-volume-16-issue-3/risc-v-design-verification-strategy)
+ 
+ ### Books
+ [Back to the Top](https://github.com/mikeroyal/risc-v-Guide#table-of-contents)
+ 
+ - [The RISC-V Instruction Set Manual](https://riscv.org/wp-content/uploads/2019/12/riscv-spec-20191213.pdf)
+ 
+ - [RISC-V Assembly Programmer's Manual](https://github.com/riscv-non-isa/riscv-asm-manual/blob/master/riscv-asm.md)
+ 
+ - [Digital Design and Computer Architecture, RISC-V Edition](https://www.amazon.com/Digital-Design-Computer-Architecture-RISC-V/dp/0128200642)
+ 
+ - [Computer Organization and Design RISC-V Edition (The Morgan Kaufmann Series in Computer Architecture and Design)](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture/dp/0128203315)
+ 
+ - [The RISC-V Reader: An Open Architecture Atlas ](https://www.amazon.ca/RISC-V-Reader-Open-Architecture-Atlas/dp/0999249118)
+ 
+ - [An Introduction to Assembly Programming with RISC-V](https://riscv-programming.org/book.html)
+
+ - [Digital Design with Chisel Book](https://github.com/schoeberl/chisel-book)
 
 # RISC-V Operating Systems
 
 [Back to the Top](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#table-of-contents)
 
-[RISC-V - Ubuntu Wiki](https://wiki.ubuntu.com/RISC-V)
+[Running 32-bit & 64-bit RISC-V Linux on QEMU](https://risc-v-getting-started-guide.readthedocs.io/en/latest/linux-qemu.html)
 
-<h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/106686328-f5db3280-657e-11eb-9109-88a1df99983a.png">
-  <br />
-</h1>
+ - [FreeRTOS](https://freertos.org/) 
 
-[RISC-V - Kubuntu Wiki](https://wiki.kubuntu.org/RISC-V)
+ - [Zephyr OS](https://www.zephyrproject.org/zephyr-rtos-featured-in-risc-v-getting-started-guide/) 
 
-<h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/112046427-40057c80-8b09-11eb-856f-9233f55d691f.png">
-  <br />
-</h1>
+ - [meta-riscv AKA OpenEmbedded/Yocto](https://github.com/riscv/meta-riscv)
 
-[RISC-V - Debian Wiki](https://wiki.debian.org/RISC-V)
+ - [RISC-V - Ubuntu Wiki](https://wiki.ubuntu.com/RISC-V)
 
-<h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/107439775-73ef8a00-6ae7-11eb-9037-6aa910fc3c74.png">
-  <br />
-</h1>
+ - [RISC-V - Kubuntu Wiki](https://wiki.kubuntu.org/RISC-V)
 
-[RISC-V - Fedora Project Wiki](https://fedoraproject.org/wiki/Architectures/RISC-V)
+ - [RISC-V - Debian Wiki](https://wiki.debian.org/RISC-V)
 
-<h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/107158827-70220300-6941-11eb-917b-dbdb7142a13b.png">
-  <br />
-</h1>
+ - [RISC-V - Fedora Project Wiki](https://fedoraproject.org/wiki/Architectures/RISC-V)
 
+ - [RISC-V - openSUSE Wiki](https://en.opensuse.org/openSUSE:RISC-V)
 
-[RISC-V - openSUSE Wiki](https://en.opensuse.org/openSUSE:RISC-V)
+ - [RISC-V - FreeBSD Wiki](https://wiki.freebsd.org/riscv)
 
-<h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/110253145-a00ef700-7f3d-11eb-9b5c-d3cee3cbce84.png">
-  <br />
-</h1>
+ - [Huawei LiteOS](https://www.huawei.com/minisite/liteos/en/index.html)
 
-[SUSE Wiki](https://documentation.suse.com/)
+ - [Apache Mynewt](https://mynewt.apache.org/)
 
- <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/110253144-9f766080-7f3d-11eb-9a01-2ac6738637e9.png">
-  <br />
-</h1>
+ - [Apache NuttX](https://nuttx.apache.org/)
 
-[Manjaro ARM](https://wiki.manjaro.org/index.php/Manjaro-ARM)
+ - [Drone OS](https://www.drone-os.com/)
 
- <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/110054438-f3036700-7d0f-11eb-88bc-dab9b262c097.png">
-  <br />
-</h1>
+ - [embOS](https://www.segger.com/products/rtos/embos/)
 
-[EndeavourOS Wiki](https://endeavouros.com/wiki/)
+ - [Little Kernel Embedded Operating System](https://github.com/littlekernel/lk/)
 
-<h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/107439882-9e414780-6ae7-11eb-819e-e87e7bcc7a97.png">
-  <br />
-</h1>
+ - [Tock OS](https://www.tockos.org/)
 
-[Zephyr OS](https://www.zephyrproject.org/zephyr-rtos-featured-in-risc-v-getting-started-guide/) is a popular security-oriented RTOS with a small-footprint kernel designed for use on resource-constrained and embedded systems. Zephyr has a small-foorprint Kernel focusing on embedded devices compatible with x86, ARM, RISC-V, Xtensa and [others](https://docs.zephyrproject.org/latest/boards/index.html).
+ - [TrampolineRTOS](https://github.com/TrampolineRTOS/trampoline)
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/112046437-4267d680-8b09-11eb-958d-7a5875f6593a.png">
-</p>
-
-[FreeRTOS](https://freertos.org/) is an open source, real-time operating system for microcontrollers that makes small, low-power edge devices easy to program, deploy, secure, connect, and manage.
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/112774034-2d011980-8fed-11eb-8693-f3fd2340034b.png">
-</p>
+ - [RIOT](https://www.riot-os.org/)  
+ 
 
 ## RISC-V Tools
 
@@ -336,6 +328,8 @@
 [VRoom](https://github.com/MoonbaseOtago/vroom) is a new high-end RISC-V CPU implementation.
 
 [FireSim](https://fires.im/) is an open-source cycle-accurate FPGA-accelerated full-system hardware simulation platform that runs on cloud FPGAs (Amazon EC2 F1).
+
+[Nuclei Software Development Kit(Nuclei SDK)](https://doc.nucleisys.com/nuclei_sdk) is a toolkit for developing and evaluating software using our FPGA evaluation board.
 
 [GAP SDK](https://github.com/GreenWaves-Technologies/gap_sdk) is set of tools and libraries that allows you to compile and execute applications on the GAP IoT Application Processor. This SDK provides a development environment for the GAP series processors.
 
