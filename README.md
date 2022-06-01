@@ -51,12 +51,17 @@
  
  **StarFive VisionFive Hardware Specs**
  
-- CPU: U74 Dual-Core with 2MB L2 cache, running at 1.0GHz. The SoC includes Vision DSP Tensilica-VP6 for computing vision at 600MHz (VPU), an NVIDIA  Deep Learning Accelerator, and a neural network engine.
-- 8GB LPDDR4 RAM (2x 4GB clocked at 2800MHz)
+**CPU:** U74 Dual-Core with 2MB L2 cache, running at 1.0GHz. The SoC includes Vision DSP Tensilica-VP6 for computing vision at 600MHz (VPU), an NVIDIA  Deep Learning Accelerator, and a neural network engine.
+
+**Memory:** 8GB LPDDR4 RAM (2x 4GB clocked at 2800MHz)
+
+**User I/O**
 - 4 x USB3.0 Ports, Gigabit Ethernet, Audio jack
 - 40 Pin GPIO Header (28 x GPIO, I2C, I2S, SPI, UART)
-- Wi-Fi and Bluetooth 4.2
-- Linux Ready including Fedora.
+
+**Networking:** Wi-Fi and Bluetooth 4.2
+
+Linux Ready including **Fedora**.
 
 [Checkout the HiFive Unmatched Developement board](https://www.sifive.com/boards/hifive-unmatched) **(Discontinued as of January 2022)**
 
@@ -68,7 +73,7 @@
 
 **Memory:** 16GB DDR4
 
-**Flash Memory: ** 32MB Quad SPI Flash
+**Flash Memory:** 32MB Quad SPI Flash
 
 **Removable Storage:** MicroSD Card
 
