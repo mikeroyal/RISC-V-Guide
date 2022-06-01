@@ -45,42 +45,20 @@
 
 [Back to the Top](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#table-of-contents)
 
-[Checkout the BeagleV™ board](https://beaglev.seeed.cc)
+[Checkout the StarFive VisionFive 8GB RISC-V SBC](https://www.aliexpress.com/item/3256803492307592.html)
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/112774038-2f637380-8fed-11eb-8cb8-396160f995c2.png">
-</p>
+ <img src="https://user-images.githubusercontent.com/45159366/171485293-3988aea2-a6da-49bb-9e8d-0af066d1f229.png">
+ 
+ **StarFive VisionFive Hardware Specs**
+ 
+- CPU: U74 Dual-Core with 2MB L2 cache, running at 1.0GHz. The SoC includes Vision DSP Tensilica-VP6 for computing vision at 600MHz (VPU), an NVIDIA  Deep Learning Accelerator, and a neural network engine.
+- 8GB LPDDR4 RAM (2x 4GB clocked at 2800MHz)
+- 4 x USB3.0 Ports, Gigabit Ethernet, Audio jack
+- 40 Pin GPIO Header (28 x GPIO, I2C, I2S, SPI, UART)
+- Wi-Fi and Bluetooth 4.2
+- Linux Ready including Fedora.
 
-**BeagleV™ Hardware Specs**
-
- **Processor**
- - SiFive U74 RISC-V Dual core with 2MB L2 cache @ 1.5GHz
- - Vision DSP Tensilica-VP6 for computing vision
- - NVDLA Engine (configuration 2048 MACs@800MHz )
- - Neural Network Engine (1024MACs@500MHz)
-
-**Memory**
- - 8GB LPDDR4 (2 x 4GB LPDDR4 SDRAM)
-
-**Video Processing**
- - Video Decoder/Encoder(H264/H265) up to 1 channel 4K@60FPS or 8 channel 1080p@30FPS
- - Dual channels of ISP, each channel support up to 4K@30FPS
- - 2 x MIPI-CSI, 1 x MIPI-DSI
- - 1 x HDMI support up to 1080P@30FPS
- - Support MIPI-CSI TX for video output after ISP and AI processing
- JPEG Encoder/Decoder
-
-**Peripheral**
- - 4 x USB 3.0 Ports
- - 1 x Gigabit Ethernet
- - 1 x 3.5mm Audio jack
- - Dedicated Audio Processing DSP and sub-system
- - 40 Pin GPIO Header (28 x GPIO, I2C, I2S, SPI, UART)
- - MicroSD card slot for operating system and data storage
- - 1 x Wi-Fi 2.4GHz b/g/n and Bluetooth 4.2
- - Power with USB Type-C (5V@3A)
-
-[Checkout the HiFive Unmatched Developement board](https://www.sifive.com/boards/hifive-unmatched)
+[Checkout the HiFive Unmatched Developement board](https://www.sifive.com/boards/hifive-unmatched) **(Discontinued as of January 2022)**
 
 <img src="https://user-images.githubusercontent.com/45159366/104135527-ea149b80-5345-11eb-902a-f07b7bd0b99b.png">
 
@@ -208,7 +186,6 @@
  - FTDI programmer interface to program the external SPI flash
 
  - JTAG programming interface
- 
 
 # RISC-V Learning Resources
 
@@ -295,6 +272,8 @@
  - [RISC-V - openSUSE Wiki](https://en.opensuse.org/openSUSE:RISC-V)
 
  - [RISC-V - FreeBSD Wiki](https://wiki.freebsd.org/riscv)
+ -
+ - [RISC-V - OpenBSD Wiki](https://www.openbsd.org/riscv64.html)
 
  - [Huawei LiteOS](https://www.huawei.com/minisite/liteos/en/index.html)
 
