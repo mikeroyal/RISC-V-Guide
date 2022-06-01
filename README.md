@@ -277,7 +277,7 @@ Linux Ready including **Fedora**.
  - [RISC-V - openSUSE Wiki](https://en.opensuse.org/openSUSE:RISC-V)
 
  - [RISC-V - FreeBSD Wiki](https://wiki.freebsd.org/riscv)
- -
+
  - [RISC-V - OpenBSD Wiki](https://www.openbsd.org/riscv64.html)
 
  - [Huawei LiteOS](https://www.huawei.com/minisite/liteos/en/index.html)
