@@ -191,6 +191,41 @@ Linux Ready including **Fedora**.
  - FTDI programmer interface to program the external SPI flash
 
  - JTAG programming interface
+ 
+**[Checkout the Espressif ESP32-C3](https://www.espressif.com/en/products/socs/esp32-c3)**
+
+[Espressif ESP32-C3](https://www.espressif.com/en/products/socs/esp32-c3) is a single-core Wi-Fi and Bluetooth 5 (LE) microcontroller SoC, based on the open-source RISC-V architecture. It has the right balance of power, I/O capabilities and security, thus offering the optimal cost-effective solution for connected devices. The availability of Wi-Fi and Bluetooth 5 (LE) connectivity not only makes the device's configuration easy, but it also facilitates a variety of use-cases based on dual connectivity.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/177451635-64cda8af-b05f-4506-acc1-d9ddf5a894f1.png">
+  <br />
+</p>
+
+**Espressif ESP32-C3 Hardware Specs:**
+
+- 32-bit core RISC-V microcontroller with a maximum clock speed of 160 MHz. 
+- 22 configurable GPIOs.
+- 400 KB of internal RAM. 
+- Low-power-mode support.
+- RSA-3072-based secure boot.
+- AES-128/256-XTS-based flash encryption.
+- Wi-Fi and Bluetooth 5 (LE).
+
+[Espressif ESP32-C3-DevKitC-02](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/hw-reference/esp32c3/user-guide-devkitc-02.html) is an entry-level development board based on [ESP32-C3-WROOM-02](https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf), a general-purpose module with 4 MB SPI flash. This board integrates complete Wi-Fi and Bluetooth LE functions.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/177451653-b77a9819-2308-4080-b2dd-8aec755b5583.png">
+  <br />
+  ESP32-C3-DevKitC-02
+</p>
+
+[Espressif ESP32-C3-DevKitM-1](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/hw-reference/esp32c3/user-guide-devkitm-1.html) is an entry-level development board based on [ESP32-C3-MINI-1](https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf), a module named for its small size. This board integrates complete Wi-Fi and Bluetooth LE functions.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/177451647-4831fad4-8fc9-4c50-858f-dbb11c829df8.png">
+  <br />
+  ESP32-C3-DevKitM-1
+</p>
 
 # RISC-V Learning Resources
 
