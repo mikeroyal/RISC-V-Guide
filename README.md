@@ -18,6 +18,9 @@
      - [Books](https://github.com/mikeroyal/RISC-V-Guide#books)
 
 3. [RISC-V Operating Systems](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#risc-v-operating-systems)
+     * [Linux-based Operating Systems](https://github.com/mikeroyal/RISC-V-Guide#linux-based-operating-systems)
+     * [BSD-based Operating Systems](https://github.com/mikeroyal/RISC-V-Guide#bsd-based-operating-systems)
+     * [Real-Time Operating Systems (RTOS)](https://github.com/mikeroyal/RISC-V-Guide#real-time-operating-systems-rtos)
 
 4. [RISC-V Tools](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#risc-v-tools)
 
@@ -293,45 +296,52 @@ Linux Ready including **Fedora**.
 
 [Back to the Top](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#table-of-contents)
 
-[Running 32-bit & 64-bit RISC-V Linux on QEMU](https://risc-v-getting-started-guide.readthedocs.io/en/latest/linux-qemu.html)
+* [Running 32-bit & 64-bit RISC-V Linux on QEMU](https://risc-v-getting-started-guide.readthedocs.io/en/latest/linux-qemu.html)
 
- - [FreeRTOS](https://freertos.org/) 
+### Linux-based Operating Systems
+[Back to the Top](#table-of-contents)
 
- - [Zephyr OS](https://www.zephyrproject.org/zephyr-rtos-featured-in-risc-v-getting-started-guide/) 
+ * [RISC-V - Ubuntu Wiki](https://wiki.ubuntu.com/RISC-V)
 
- - [meta-riscv AKA OpenEmbedded/Yocto](https://github.com/riscv/meta-riscv)
+ * [RISC-V - Debian Wiki](https://wiki.debian.org/RISC-V)
 
- - [RISC-V - Ubuntu Wiki](https://wiki.ubuntu.com/RISC-V)
+ * [RISC-V - Fedora Project Wiki](https://fedoraproject.org/wiki/Architectures/RISC-V)
 
- - [RISC-V - Kubuntu Wiki](https://wiki.kubuntu.org/RISC-V)
+ * [RISC-V - openSUSE Wiki](https://en.opensuse.org/openSUSE:RISC-V)
+ 
+ ### BSD-based Operating Systems
+ [Back to the Top](#table-of-contents)
+ 
+ * [RISC-V - FreeBSD Wiki](https://wiki.freebsd.org/riscv)
 
- - [RISC-V - Debian Wiki](https://wiki.debian.org/RISC-V)
+ * [RISC-V - OpenBSD Wiki](https://www.openbsd.org/riscv64.html)
+ 
+ ### Real-Time Operating Systems (RTOS)
+ [Back to the Top](#table-of-contents)
+ 
+ * [FreeRTOS](https://freertos.org/) 
 
- - [RISC-V - Fedora Project Wiki](https://fedoraproject.org/wiki/Architectures/RISC-V)
+ * [Zephyr OS](https://www.zephyrproject.org/zephyr-rtos-featured-in-risc-v-getting-started-guide/) 
 
- - [RISC-V - openSUSE Wiki](https://en.opensuse.org/openSUSE:RISC-V)
+ * [meta-riscv AKA OpenEmbedded/Yocto](https://github.com/riscv/meta-riscv)
 
- - [RISC-V - FreeBSD Wiki](https://wiki.freebsd.org/riscv)
+ * [Huawei LiteOS](https://www.huawei.com/minisite/liteos/en/index.html)
 
- - [RISC-V - OpenBSD Wiki](https://www.openbsd.org/riscv64.html)
+ * [Apache Mynewt](https://mynewt.apache.org/)
 
- - [Huawei LiteOS](https://www.huawei.com/minisite/liteos/en/index.html)
+ * [Apache NuttX](https://nuttx.apache.org/)
 
- - [Apache Mynewt](https://mynewt.apache.org/)
+ * [Drone OS](https://www.drone-os.com/)
 
- - [Apache NuttX](https://nuttx.apache.org/)
+ * [embOS](https://www.segger.com/products/rtos/embos/)
 
- - [Drone OS](https://www.drone-os.com/)
+ * [Little Kernel Embedded Operating System](https://github.com/littlekernel/lk/)
 
- - [embOS](https://www.segger.com/products/rtos/embos/)
+ * [Tock OS](https://www.tockos.org/)
 
- - [Little Kernel Embedded Operating System](https://github.com/littlekernel/lk/)
+ * [TrampolineRTOS](https://github.com/TrampolineRTOS/trampoline)
 
- - [Tock OS](https://www.tockos.org/)
-
- - [TrampolineRTOS](https://github.com/TrampolineRTOS/trampoline)
-
- - [RIOT](https://www.riot-os.org/)  
+ * [RIOT](https://www.riot-os.org/)  
  
 
 ## RISC-V Tools
