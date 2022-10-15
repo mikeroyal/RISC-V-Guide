@@ -309,6 +309,8 @@ Linux Ready including **Fedora**.
 
  * [RISC-V - openSUSE Wiki](https://en.opensuse.org/openSUSE:RISC-V)
  
+ * [RISC-V - Gentoo Linux Wiki](https://wiki.gentoo.org/wiki/RISC-V_Qemu_setup)]
+ 
  * [Alpine Linux riscv**64**](https://dl-cdn.alpinelinux.org/alpine/edge/releases/riscv64/)
  
  ### BSD-based Operating Systems
