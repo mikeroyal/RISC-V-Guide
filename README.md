@@ -21,6 +21,7 @@
      * [Linux-based Operating Systems](https://github.com/mikeroyal/RISC-V-Guide#linux-based-operating-systems)
      * [BSD-based Operating Systems](https://github.com/mikeroyal/RISC-V-Guide#bsd-based-operating-systems)
      * [Real-Time Operating Systems (RTOS)](https://github.com/mikeroyal/RISC-V-Guide#real-time-operating-systems-rtos)
+     * [seL4 Operating Systems](#seL4-Operating-Systems)
 
 4. [RISC-V Tools](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#risc-v-tools)
 
@@ -346,6 +347,14 @@ Linux Ready including **Fedora**.
  * [TrampolineRTOS](https://github.com/TrampolineRTOS/trampoline)
 
  * [RIOT](https://www.riot-os.org/)  
+ 
+ ### seL4 Operating Systems
+
+[Back to the Top](#table-of-contents)
+
+* **[seL4](https://sel4.systems/)** is a family of second-generation microkernels, used to implement a variety of operating systems.
+
+[KataOS](https://github.com/AmbiML/sparrow-kata) is a a home-grown operating system that runs on top of [seL4](https://github.com/seL4) and is written almost entirely in [Rust](https://www.rust-lang.org/). It ignores the seL4 kernel using [Renode](https://antmicro.com/blog/2022/08/running-rust-programs-in-sel4/) simulator and related frameworks. KataOS is part of the [Sparrow](https://github.com/AmbiML/sparrow-manifest) project to build a low-power secure embeded platform for Ambient ML applications. The target platform leverages [RISC-V](https://riscv.org/) and [OpenTitan](https://opentitan.org/). 
  
 
 ## RISC-V Tools
