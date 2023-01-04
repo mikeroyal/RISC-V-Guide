@@ -261,6 +261,8 @@ Linux Ready including **Fedora**.
 
 - [RISC-V Global Forum](https://events.linuxfoundation.org/riscv-global-forum/)
 
+- [Porting Android onto RISC-V: Android 12 upgrade, vendor modules and TensorFlow Lite](https://riscv.org/blog/2022/07/progress-in-porting-android-onto-risc-v-android-12-upgrade-vendor-modules-and-tensorflow-lite-mao-han-alibaba-cloud/)
+
 ### Learning/Training Courses
 [Back to the Top](https://github.com/mikeroyal/risc-v-Guide#table-of-contents)
 
