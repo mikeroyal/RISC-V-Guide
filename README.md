@@ -245,6 +245,8 @@ Linux Ready including **Fedora**.
 ### Developer Resources
 [Back to the Top](https://github.com/mikeroyal/risc-v-Guide#table-of-contents)
 
+- [RISC-V International YouTube](https://www.youtube.com/@RISCVInternational/videos)
+
 - [RISC-V Cores and SoC Overview](https://riscv.org/risc-v-cores/)
 
 - [Optimizing OpenCV for the RISC-V Architecture](https://opencv.org/optimizing-opencv-for-the-risc-v-architecture/)
@@ -260,6 +262,7 @@ Linux Ready including **Fedora**.
 - [RISC-V Main Members Group](https://lists.riscv.org/g/main)
 
 - [RISC-V Global Forum](https://events.linuxfoundation.org/riscv-global-forum/)
+
 
 ### Learning/Training Courses
 [Back to the Top](https://github.com/mikeroyal/risc-v-Guide#table-of-contents)
