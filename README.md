@@ -408,6 +408,12 @@ Linux Ready including **Fedora**.
 
 [LLVM](https://github.com/llvm/) is a library that has collection of modular/reusable compiler and toolchain  components (assemblers, compilers, debuggers, etc.). With these components LLVM can be used as a compiler framework, providing a front-end(parser and lexer) and a back-end (code that converts LLVM's representation to actual machine code).
 
+[Halide](https://github.com/halide/Halide) is a programming language designed to make it easier to write high-performance image and array processing code on modern machines. Halide currently targets:
+
+   * CPU architectures: X86, ARM, MIPS, Hexagon, PowerPC, RISC-V
+   * Operating systems: Linux, Windows, macOS, Android, iOS, Qualcomm QuRT
+   * GPU Compute APIs: CUDA, OpenCL, OpenGL Compute Shaders, Apple Metal, Microsoft DirectX 12
+
 [Unicorn](https://github.com/unicorn-engine/unicorn) is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
 
 [Keystone](https://github.com/keystone-engine/keystone) is a lightweight multi-platform, multi-architecture(Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) assembler framework.
