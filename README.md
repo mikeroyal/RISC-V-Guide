@@ -25,7 +25,7 @@
 
 4. [RISC-V Tools](#risc-v-tools)
 
-5. [Android Development](#Andorid-Development)
+5. [Android Development](#Android-Development)
     * [Android Development](#Android-Development-Resources)
     * [Setting up Android 12 on RISC-V](#Setting-up-Android-12-on-RISC-V)
 
