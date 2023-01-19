@@ -245,58 +245,47 @@ Linux Ready including **Fedora**.
 ### Developer Resources
 [Back to the Top](https://github.com/mikeroyal/risc-v-Guide#table-of-contents)
 
-- [RISC-V International YouTube](https://www.youtube.com/@RISCVInternational/videos)
-
-- [RISC-V Cores and SoC Overview](https://riscv.org/risc-v-cores/)
-
-- [Optimizing OpenCV for the RISC-V Architecture](https://opencv.org/optimizing-opencv-for-the-risc-v-architecture/)
-
-- [Software development kits, Toolchains and Utilities for RISC-V devices](https://www.sifive.com/software)
-
-- [Porting Android onto RISC-V: Android 12 upgrade, vendor modules and TensorFlow Lite](https://riscv.org/blog/2022/07/progress-in-porting-android-onto-risc-v-android-12-upgrade-vendor-modules-and-tensorflow-lite-mao-han-alibaba-cloud/)
-
-- [RISC-V Development Board and RISC-V CPU](https://risc-v.ca)
-
-- [RISC-V CPUs from Microsemi](https://www.microsemi.com/product-directory/mi-v-risc-v-ecosystem/4406-risc-v-cpus#overview)
-
-- [RISC-V Community](https://riscv.org/community/)
-
-- [RISC-V Main Members Group](https://lists.riscv.org/g/main)
-
-- [RISC-V Global Forum](https://events.linuxfoundation.org/riscv-global-forum/)
+* [RISC-V International YouTube](https://www.youtube.com/@RISCVInternational/videos)
+* [RISC-V Cores and SoC Overview](https://riscv.org/risc-v-cores/)
+* [RISC-V Ecosystem Landscape](https://landscape.riscv.org/)
+* [ISA Specifications](https://github.com/riscv)
+* [Non-ISA Specifications](https://github.com/riscv-non-isa)
+* [RISC-V Software](https://github.com/riscv-software-src)
+* [Software Upstreaming](https://github.com/riscv-collab)
+* [RISC-V Administrative Docs](https://github.com/riscv-admin)
+* [RISC-V Android](https://github.com/riscv-android-src)
+* [Android Runtime (ART)](https://source.android.com/docs/core/ota/modular-system/art)
+* [Android Runtime (ART) and Dalvik](https://source.android.com/docs/core/runtime)
+* [Optimizing OpenCV for the RISC-V Architecture](https://opencv.org/optimizing-opencv-for-the-risc-v-architecture/)
+* [Software development kits, Toolchains and Utilities for RISC-V devices](https://www.sifive.com/software)
+* [Porting Android onto RISC-V: Android 12 upgrade, vendor modules and TensorFlow Lite](https://riscv.org/blog/2022/07/progress-in-porting-android-onto-risc-v-android-12-upgrade-vendor-modules-and-tensorflow-lite-mao-han-alibaba-cloud/)
+* [RISC-V Development Board and RISC-V CPU](https://risc-v.ca)
+* [RISC-V CPUs from Microsemi](https://www.microsemi.com/product-directory/mi-v-risc-v-ecosystem/4406-risc-v-cpus#overview)
+* [RISC-V Community](https://riscv.org/community/)
+* [RISC-V Main Members Group](https://lists.riscv.org/g/main)
+* [RISC-V Global Forum](https://events.linuxfoundation.org/riscv-global-forum/)
 
 
 ### Learning/Training Courses
 [Back to the Top](https://github.com/mikeroyal/risc-v-Guide#table-of-contents)
 
-- [RISC-V Learn Online Courses](https://riscv.org/community/learn/risc-v-learn-online/)
-
-- [RISC-V Training Partner Program](https://riscv.org/exchange/training-partner-program/)
-
-- [SiFive Academy RISC-V Course](https://www.sifiveacademy.com/)
-
-- [Risc-V Courses on Udemy](https://www.udemy.com/topic/risc-v/)
-
-- [Imagination Technologies Announces the First RISC-V Computer Architecture Course](https://riscv.org/news/2020/09/imagination-announces-the-first-risc-v-computer-architecture-course/)
-
- - [RISC-V Design Verification Strategy](https://verificationacademy.com/verification-horizons/november-2020-volume-16-issue-3/risc-v-design-verification-strategy)
+* [RISC-V Learn Online Courses](https://riscv.org/community/learn/risc-v-learn-online/)
+* [RISC-V Training Partner Program](https://riscv.org/exchange/training-partner-program/)
+* [SiFive Academy RISC-V Course](https://www.sifiveacademy.com/)
+* [Risc-V Courses on Udemy](https://www.udemy.com/topic/risc-v/)
+* [Imagination Technologies Announces the First RISC-V Computer Architecture Course](https://riscv.org/news/2020/09/imagination-announces-the-first-risc-v-computer-architecture-course/)
+* [RISC-V Design Verification Strategy](https://verificationacademy.com/verification-horizons/november-2020-volume-16-issue-3/risc-v-design-verification-strategy)
  
  ### Books
  [Back to the Top](https://github.com/mikeroyal/risc-v-Guide#table-of-contents)
  
- - [The RISC-V Instruction Set Manual](https://riscv.org/wp-content/uploads/2019/12/riscv-spec-20191213.pdf)
- 
- - [RISC-V Assembly Programmer's Manual](https://github.com/riscv-non-isa/riscv-asm-manual/blob/master/riscv-asm.md)
- 
- - [Digital Design and Computer Architecture, RISC-V Edition](https://www.amazon.com/Digital-Design-Computer-Architecture-RISC-V/dp/0128200642)
- 
- - [Computer Organization and Design RISC-V Edition (The Morgan Kaufmann Series in Computer Architecture and Design)](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture/dp/0128203315)
- 
- - [The RISC-V Reader: An Open Architecture Atlas ](https://www.amazon.ca/RISC-V-Reader-Open-Architecture-Atlas/dp/0999249118)
- 
- - [An Introduction to Assembly Programming with RISC-V](https://riscv-programming.org/book.html)
-
- - [Digital Design with Chisel Book](https://github.com/schoeberl/chisel-book)
+ * [The RISC-V Instruction Set Manual](https://riscv.org/wp-content/uploads/2019/12/riscv-spec-20191213.pdf)
+ * [RISC-V Assembly Programmer's Manual](https://github.com/riscv-non-isa/riscv-asm-manual/blob/master/riscv-asm.md)
+ * [Digital Design and Computer Architecture, RISC-V Edition](https://www.amazon.com/Digital-Design-Computer-Architecture-RISC-V/dp/0128200642)
+ * [Computer Organization and Design RISC-V Edition (The Morgan Kaufmann Series in Computer Architecture and Design)](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture/dp/0128203315)
+ * [The RISC-V Reader: An Open Architecture Atlas ](https://www.amazon.ca/RISC-V-Reader-Open-Architecture-Atlas/dp/0999249118)
+ * [An Introduction to Assembly Programming with RISC-V](https://riscv-programming.org/book.html)
+ * [Digital Design with Chisel Book](https://github.com/schoeberl/chisel-book)
 
 # RISC-V Operating Systems
 
