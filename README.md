@@ -10,36 +10,40 @@
 
 # Table of Contents
 
-1. [Models of RISC-V boards](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#models-of-risc-v-boards)
+1. [Models of RISC-V boards](#models-of-risc-v-boards)
 
-2. [RISC-V Learning Resources](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#risc-v-learning-resources)
-     - [Developer Resources](https://github.com/mikeroyal/RISC-V-Guide#developer-resources)
-     - [Learning/Training Courses](https://github.com/mikeroyal/RISC-V-Guide#learningtraining-courses)
-     - [Books](https://github.com/mikeroyal/RISC-V-Guide#books)
+2. [RISC-V Learning Resources](#risc-v-learning-resources)
+     - [Developer Resources](#developer-resources)
+     - [Learning/Training Courses](#learningtraining-courses)
+     - [Books](#books)
 
-3. [RISC-V Operating Systems](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#risc-v-operating-systems)
-     * [Linux-based Operating Systems](https://github.com/mikeroyal/RISC-V-Guide#linux-based-operating-systems)
-     * [BSD-based Operating Systems](https://github.com/mikeroyal/RISC-V-Guide#bsd-based-operating-systems)
-     * [Real-Time Operating Systems (RTOS)](https://github.com/mikeroyal/RISC-V-Guide#real-time-operating-systems-rtos)
+3. [RISC-V Operating Systems](#risc-v-operating-systems)
+     * [Linux-based Operating Systems](#linux-based-operating-systems)
+     * [BSD-based Operating Systems](#bsd-based-operating-systems)
+     * [Real-Time Operating Systems (RTOS)](#real-time-operating-systems-rtos)
      * [seL4 Operating Systems](#seL4-Operating-Systems)
 
-4. [RISC-V Tools](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#risc-v-tools)
+4. [RISC-V Tools](#risc-v-tools)
 
-5. [FPGA(Field Programmable Gate Arrays) Development](https://github.com/mikeroyal/RISC-V-Guide/blob/main/README.md#fpga-development)
+5. [Android Development](#Andorid-Development)
+    * [Android Development](#Android-Development-Resources)
+    * [Setting up Android 12 on RISC-V](#Setting-up-Android-12-on-RISC-V)
 
-6. [Verilog/SystemVerilog Development](https://github.com/mikeroyal/RISC-V-Guide/blob/main/README.md#verilogsystemverilog-development)
+6. [FPGA(Field Programmable Gate Arrays) Development](#fpga-development)
 
-7. [Assembly Development](https://github.com/mikeroyal/RISC-V-Guide/blob/main/README.md#assembly-development)
+7. [Verilog/SystemVerilog Development](#verilogsystemverilog-development)
 
-8. [Telco 5G Development](https://github.com/mikeroyal/RISC-V-Guide/blob/main/README.md#telco-5g-development)
+8. [Assembly Development](#assembly-development)
 
-9. [Kubernetes](https://github.com/mikeroyal/RISC-V-Guide/blob/main/README.md#kubernetes)
+9. [Telco 5G Development](#telco-5g-development)
 
-10. [Machine Learning](https://github.com/mikeroyal/RISC-V-Guide/blob/main/README.md#machine-learning)
+10. [Kubernetes](#kubernetes)
 
-11. [Robotics](https://github.com/mikeroyal/RISC-V-Guide/blob/main/README.md#robotics)
+11. [Machine Learning](#machine-learning)
 
-12. [Networking](https://github.com/mikeroyal/RISC-V-Guide/blob/main/README.md#networking)
+12. [Robotics](#robotics)
+
+13. [Networking](#networking)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/121087082-d35d5e00-c798-11eb-94bb-58bf863bd724.png">
@@ -425,6 +429,129 @@ Linux Ready including **Fedora**.
 [Maixpy](https://maixpy.sipeed.com/) is designed to make AIOT programming easier with Micropython running on the embedded AIOT chip [K210](https://kendryte.com/).
 
 [DarkRISCV](https://github.com/darklife/darkriscv) is an open souce RISC-V cpu core implemented in Verilog from scratch.
+
+
+## Android Development
+
+[Back to the Top](#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158934968-86ff89ce-e436-4c51-bbc7-9c6327454478.gif">
+</p>
+  
+  **Note:** Initial emulator support will be available for developers by the beginning of 2023, with [Android Runtime (ART)](https://source.android.com/docs/core/ota/modular-system/art) support for Java workloads during Q1 2023.
+  
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/213521918-e62f8b13-4814-420c-bd95-58fd320846f0.png">
+</p>
+
+Android for RISC-V Roadmap. Image Credit: [RISC-V](https://riscv.org/blog/2022/07/progress-in-porting-android-onto-risc-v-android-12-upgrade-vendor-modules-and-tensorflow-lite-mao-han-alibaba-cloud/)
+  
+   
+### Android Development Resources
+ 
+   * Rebuild the prebuild projects，please check：[Prebuilt projects](https://github.com/riscv-android-src/riscv-android/blob/main/doc/prebuilt_projects.md)
+   * Run the compatibility test suit, please check：[CTS build guide](https://github.com/riscv-android-src/riscv-android/blob/main/doc/CTS_compile.md)
+   * Build application for RISC-V, please check：[App build guide](https://github.com/riscv-android-src/riscv-android/blob/main/doc/app.md)
+   * [RISC-V Android](https://github.com/riscv-android-src)
+   * [RISC-V Administrative Docs](https://github.com/riscv-admin)
+   * [Android Runtime (ART)](https://source.android.com/docs/core/ota/modular-system/art)
+   * [Android Runtime (ART) and Dalvik](https://source.android.com/docs/core/runtime)
+   * [RISC-V Ecosystem Landscape](https://landscape.riscv.org/)
+   * [ISA Specifications](https://github.com/riscv)
+   * [Non-ISA Specifications](https://github.com/riscv-non-isa)
+   * [RISC-V Software](https://github.com/riscv-software-src)
+   * [Software Upstreaming](https://github.com/riscv-collab)
+ 
+
+### Setting up Android 12 on RISC-V
+
+**Important:** Before downloading [RISC-V Android source code](https://github.com/riscv-android-src/riscv-android) please check your work environment. It's recommended to install a Linux system([Ubuntu 20.04](https://www.releases.ubuntu.com/20.04/) or later is preferred) with at least 256GB disk space, 16 GB of RAM, and more than 6 CPU cores.
+
+**To download the RISC-V Android source tree to your working directory:**
+
+```
+mkdir ~/riscv-android-src && cd ~/riscv-android-src
+repo init -u git@github.com:riscv-android-src/manifest.git -b riscv64-android-12.0.0_dev
+repo sync
+cd prebuilts/rust/
+git lfs pull
+cd -
+cd cts/
+git lfs pull
+cd -
+rm external/angle/Android.bp
+```
+
+Currently ART is not fully functional yet, to make Zygote running on the andorid emulator, apply following patches before continuing.
+
+```
+riscv-android-src/art$ git diff
+diff --git a/runtime/jit/jit.h b/runtime/jit/jit.h
+index a6e484f563..234c2a0693 100644
+--- a/runtime/jit/jit.h
++++ b/runtime/jit/jit.h
+@@ -122,7 +122,7 @@ class JitOptions {
+   }
+ 
+   bool UseJitCompilation() const {
+-    return use_jit_compilation_;
++    return false;
+   }
+ 
+   bool UseProfiledJitCompilation() const {
+diff --git a/runtime/thread.h b/runtime/thread.h
+index 7a408021c1..22be55c529 100644
+--- a/runtime/thread.h
++++ b/runtime/thread.h
+@@ -1277,7 +1277,7 @@ class Thread {
+   }
+ 
+   bool IsForceInterpreter() const {
+-    return tls32_.force_interpreter_count != 0;
++    return true;
+   }
+ 
+   bool IncrementMakeVisiblyInitializedCounter() {
+```
+
+**Also:**
+
+```
+riscv-android-src/build/make$ git diff
+diff --git a/core/board_config.mk b/core/board_config.mk
+index 1b08f9a0b4..c8dc2d7fd8 100644
+--- a/core/board_config.mk
++++ b/core/board_config.mk
+@@ -149,7 +149,7 @@ _board_strip_readonly_list += $(_build_broken_var_list) \
+ 
+ # Conditional to building on linux, as dex2oat currently does not work on darwin.
+ ifeq ($(HOST_OS),linux)
+-  WITH_DEXPREOPT := true
++  WITH_DEXPREOPT := false
+ endif
+ 
+ # ###############################################################
+```
+
+**Build full emulator image with command:**
+
+```
+source build/envsetup.sh
+lunch sdk_phone64_riscv64
+m -j
+```
+
+**Run the RISC-V 64 AVD system image in the Android Emulator:**
+
+**For non-graphical interface:**
+
+```emulator -no-qt -show-kernel -noaudio -selinux permissive -qemu -smp 1 -m 3584M -bios kernel/prebuilts/5.10/riscv64/fw_jump.bin```
+
+**For graphical interface:**
+
+```emulator -verbose -no-boot-anim -show-kernel -noaudio -selinux permissive -qemu -smp 1 -m 3584M -bios kernel/prebuilts/5.10/riscv64/fw_jump.bin```
+
 
 # FPGA Development
 
