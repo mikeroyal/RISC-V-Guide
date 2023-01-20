@@ -28,22 +28,27 @@
 5. [Android Development](#Android-Development)
     * [Android Development](#Android-Development-Resources)
     * [Setting up Android 12 on RISC-V](#Setting-up-Android-12-on-RISC-V)
+    
+6. [Linux Development](#Linux-Development)
 
-6. [FPGA(Field Programmable Gate Arrays) Development](#fpga-development)
+   * [Linux Development Resources](#Linux-Development-Resources)
+   * [Setting up and running RISC-V Linux on QEMU](#Setting-up-and-running-RISC-V-Linux-on-QEMU)
 
-7. [Verilog/SystemVerilog Development](#verilogsystemverilog-development)
+7. [FPGA(Field Programmable Gate Arrays) Development](#fpga-development)
 
-8. [Assembly Development](#assembly-development)
+8. [Verilog/SystemVerilog Development](#verilogsystemverilog-development)
 
-9. [Telco 5G Development](#telco-5g-development)
+9. [Assembly Development](#assembly-development)
 
-10. [Kubernetes](#kubernetes)
+10. [Telco 5G Development](#telco-5g-development)
 
-11. [Machine Learning](#machine-learning)
+11. [Kubernetes](#kubernetes)
 
-12. [Robotics](#robotics)
+12. [Machine Learning](#machine-learning)
 
-13. [Networking](#networking)
+13. [Robotics](#robotics)
+
+14. [Networking](#networking)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/121087082-d35d5e00-c798-11eb-94bb-58bf863bd724.png">
@@ -308,7 +313,7 @@ Linux Ready including **Fedora**.
 
  * [RISC-V - openSUSE Wiki](https://en.opensuse.org/openSUSE:RISC-V)
  
- * [RISC-V - Gentoo Linux Wiki](https://wiki.gentoo.org/wiki/RISC-V_Qemu_setup)]
+ * [RISC-V - Gentoo Linux Wiki](https://wiki.gentoo.org/wiki/RISC-V_Qemu_setup)
  
  * [Alpine Linux riscv**64**](https://dl-cdn.alpinelinux.org/alpine/edge/releases/riscv64/)
  
@@ -551,6 +556,119 @@ m -j
 **For graphical interface:**
 
 ```emulator -verbose -no-boot-anim -show-kernel -noaudio -selinux permissive -qemu -smp 1 -m 3584M -bios kernel/prebuilts/5.10/riscv64/fw_jump.bin```
+
+## Linux Development
+
+[Back to the Top](#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/213654966-4fc79727-d67a-4412-a169-513b341c1cf1.png">
+</p>
+
+### Linux Development Resources
+
+ * [RISC-V - Ubuntu Wiki](https://wiki.ubuntu.com/RISC-V)
+
+ * [RISC-V - Debian Wiki](https://wiki.debian.org/RISC-V)
+
+ * [RISC-V - Fedora Project Wiki](https://fedoraproject.org/wiki/Architectures/RISC-V)
+
+ * [RISC-V - openSUSE Wiki](https://en.opensuse.org/openSUSE:RISC-V)
+ 
+ * [RISC-V - Gentoo Linux Wiki](https://wiki.gentoo.org/wiki/RISC-V_Qemu_setup)
+ 
+ * [Alpine Linux riscv**64**](https://dl-cdn.alpinelinux.org/alpine/edge/releases/riscv64/)
+
+### Setting up and running RISC-V Linux on QEMU
+
+**Important Note:**
+
+   * binutils: upstreamed (2.28 is the first release with RISC-V support.)
+   * gcc: upstreamed (7.1 is the first release with RISC-V support.)
+   * glibc: upstreamed (2.27 is the first release with RISC-V support.)
+   * linux kernel: upstreamed (the architecture core code went into kernel 4.15; kernel 4.19 contains all drivers necessary for booting a simulated system to userland.)
+   * gdb: upstreamed in master (in the release process.)
+   * qemu: upstreamed (2.12 is the first release with RISC-V support.)
+   
+Running Linux on QEMU RISC-V requires you to install some prerequisites.
+
+**Ubuntu/Debian:**
+
+```
+sudo apt install autoconf automake autotools-dev curl libmpc-dev libmpfr-dev libgmp-dev \
+                 gawk build-essential bison flex texinfo gperf libtool patchutils bc \
+                 zlib1g-dev libexpat-dev git
+```
+
+**Fedora/CentOS/RHEL:**
+
+```
+sudo yum install autoconf automake libmpc-devel mpfr-devel gmp-devel gawk bison flex \
+                 texinfo patchutils gcc gcc-c++ zlib-devel expat-devel git
+```
+
+## Getting the sources
+
+First, create a working directory, where we’ll download and build all the sources.
+
+```
+mkdir riscv64-linux
+cd riscv64-linux
+```
+
+**Then download all the required sources, which are:**
+
+  * [QEMU](https://github.com/qemu/qemu)
+  * [Linux](https://github.com/torvalds/linux)
+  * [Busybox](https://git.busybox.net/busybox)
+
+```
+git clone https://github.com/qemu/qemu
+git clone https://github.com/torvalds/linux
+git clone https://git.busybox.net/busybox
+```
+
+Also, you need to install a RISC-V toolchain. It is recomendded to install a toolchain from your distro. This can be done by using your distro’s installed (apt, dnf, pacman, etc..) and searching for riscv64 and installing gcc. If that doesn’t work you can use a prebuilt toolchain from: https://toolchains.bootlin.com.
+
+**Build QEMU with the RISC-V target:**
+
+```
+cd qemu
+git checkout v5.0.0
+./configure --target-list=riscv64-softmmu
+make -j $(nproc)
+sudo make install
+```
+
+**Build Linux for the RISC-V target. First, checkout to a desired version:**
+
+```
+cd linux
+git checkout v5.4.0
+make ARCH=riscv CROSS_COMPILE=riscv64-unknown-linux-gnu- defconfig
+```
+
+**Then compile the kernel:**
+
+```
+make ARCH=riscv CROSS_COMPILE=riscv64-unknown-linux-gnu- -j $(nproc)
+```
+
+**Build Busybox:**
+
+```
+cd busybox
+CROSS_COMPILE=riscv{{bits}}-unknown-linux-gnu- make defconfig
+CROSS_COMPILE=riscv{{bits}}-unknown-linux-gnu- make -j $(nproc)
+```
+**Running Linux:**
+
+```
+sudo qemu-system-riscv64 -nographic -machine virt \
+     -kernel linux/arch/riscv/boot/Image -append "root=/dev/vda ro console=ttyS0" \
+     -drive file=busybox,format=raw,id=hd0 \
+     -device virtio-blk-device,drive=hd0
+```
 
 
 # FPGA Development
