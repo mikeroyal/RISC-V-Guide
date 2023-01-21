@@ -26,7 +26,7 @@
 4. [RISC-V Tools](#risc-v-tools)
 
 5. [Android Development](#Android-Development)
-    * [Android Development](#Android-Development-Resources)
+    * [Android Development Resources](#Android-Development-Resources)
     * [Setting up Android 12 on RISC-V](#Setting-up-Android-12-on-RISC-V)
     
 6. [Linux Development](#Linux-Development)
@@ -315,6 +315,8 @@ Linux Ready including **Fedora**.
  
  * [RISC-V - Gentoo Linux Wiki](https://wiki.gentoo.org/wiki/RISC-V_Qemu_setup)
  
+ * [RISC-V - Arch Linux Wiki](https://wiki.archlinux.org/title/User:Cmsigler/RISC-V)
+ 
  * [Alpine Linux riscv**64**](https://dl-cdn.alpinelinux.org/alpine/edge/releases/riscv64/)
  
  ### BSD-based Operating Systems
@@ -576,6 +578,8 @@ m -j
  * [RISC-V - openSUSE Wiki](https://en.opensuse.org/openSUSE:RISC-V)
  
  * [RISC-V - Gentoo Linux Wiki](https://wiki.gentoo.org/wiki/RISC-V_Qemu_setup)
+ 
+ * [RISC-V - Arch Linux Wiki](https://wiki.archlinux.org/title/User:Cmsigler/RISC-V)
  
  * [Alpine Linux riscv**64**](https://dl-cdn.alpinelinux.org/alpine/edge/releases/riscv64/)
 
