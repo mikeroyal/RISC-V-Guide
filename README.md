@@ -12,7 +12,7 @@
 
 1. [Models of RISC-V boards](#models-of-risc-v-boards)
 
-2. [RISC-V Learning Resources](#risc-v-learning-resources)
+2. [Getting Started with RISC-V](#getting-started-with-risc-v)
      - [Developer Resources](#developer-resources)
      - [Learning/Training Courses](#learningtraining-courses)
      - [Books](#books)
@@ -240,16 +240,21 @@ Linux Ready including **Fedora**.
   ESP32-C3-DevKitM-1
 </p>
 
-# RISC-V Learning Resources
+# Getting Started with RISC-V
 
 [Back to the Top](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#table-of-contents)
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/213907269-47045c76-4032-4a88-b2d7-67eb693ba27a.png">
+</p>
 
-[RISC-V Foundation](https://riscv.org/) is a non-profit corporation controlled by its 500 members(NVIDIA, Google, Samsung, Raspberry Pi, SiFive, Canonical, and Western Digital) to drive forward the adoption and implementation of the free and open RISC-V instruction set architecture (ISA).
+Image Credit: [RISC-V](https://riscv.org/)
 
-[SiFive](https://www.sifive.com/) is a semiconductor company that produces complete RISC-V processors IP with pre-integrated SiFive Shield, for whole SoC security, and SiFive Insight advanced trace and debug. 
+* [RISC-V Foundation](https://riscv.org/) is a non-profit corporation controlled by its 500 members(NVIDIA, Google, Samsung, Raspberry Pi, SiFive, Canonical, and Western Digital) to drive forward the adoption and implementation of the free and open RISC-V instruction set architecture (ISA).
 
-[IAR Systems](https://www.iar.com/) is a company that enables Linux-based Continuous Integration and automated workflows for embedded systems(ARM & RISC-V).
+* [SiFive](https://www.sifive.com/) is a semiconductor company that produces complete RISC-V processors IP with pre-integrated SiFive Shield, for whole SoC security, and SiFive Insight advanced trace and debug. 
+
+* [IAR Systems](https://www.iar.com/) is a company that enables Linux-based Continuous Integration and automated workflows for embedded systems(ARM & RISC-V).
 
 ### Developer Resources
 [Back to the Top](https://github.com/mikeroyal/risc-v-Guide#table-of-contents)
