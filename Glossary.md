@@ -1,9 +1,9 @@
-A list of usefule terms for the RISC-V ecosystem software and hardware.
+# Glossary
+
+A list of useful terms for the RISC-V ecosystem software and hardware.
 
 <p align="center">
-<img src="">
-<br />
-RISC-V 
+<img src="https://user-images.githubusercontent.com/45159366/214713880-81ed2cac-6cbf-4012-b3e9-1cb35f070219.png">
 </p>
 
 A
