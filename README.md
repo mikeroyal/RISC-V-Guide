@@ -243,6 +243,23 @@ Linux Ready including **Fedora**.
   ESP32-C3-DevKitM-1
 </p>
 
+[HiFive Pro P550](https://www.sifive.com/boards/hifive-pro-p550) is an Intel-SiFive Horse Creek SoC containing quad-core SiFive Performance P550 core complex.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/233887356-5b8517bf-87d2-486e-b27b-f704f02e2d90.png">
+<br />
+HiFive Pro P550 board render
+</p>
+
+
+[Star64](https://wiki.pine64.org/wiki/STAR64) is a RISC-V single-board computer, a quad-core 64-bit Linux-capable device by [Pine64](https://www.pine64.org/).
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/233887345-1e4bd69e-43e8-4f6e-b8a4-1bcf7ec1c7c6.png">
+<br />
+Pine64 Star64 board
+</p>
+
 # Getting Started with RISC-V
 
 [Back to the Top](https://github.com/mikeroyal/risc-v-Guide/blob/main/README.md#table-of-contents)
