@@ -342,7 +342,9 @@ Image Credit: [RISC-V](https://riscv.org/)
  
  * [RISC-V - Arch Linux Wiki](https://wiki.archlinux.org/title/User:Cmsigler/RISC-V)
  
- * [Alpine Linux riscv**64**](https://dl-cdn.alpinelinux.org/alpine/edge/releases/riscv64/)
+ * [Alpine Linux riscv64](https://dl-cdn.alpinelinux.org/alpine/edge/releases/riscv64/)
+ 
+ * [NixOS riscv64](https://github.com/zhaofengli/nixos-riscv64)
  
  ### BSD-based Operating Systems
  [Back to the Top](#table-of-contents)
