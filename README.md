@@ -346,6 +346,8 @@ Image Credit: [RISC-V](https://riscv.org/)
  
  * [NixOS riscv64](https://github.com/zhaofengli/nixos-riscv64)
  
+ * [Haiku for RISCV64](https://www.haiku-os.org/guides/building/compiling-riscv64)
+ 
  ### BSD-based Operating Systems
  [Back to the Top](#table-of-contents)
  
