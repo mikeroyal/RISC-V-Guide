@@ -306,6 +306,8 @@ Image Credit: [RISC-V](https://riscv.org/)
 ### Learning/Training Courses
 [Back to the Top](https://github.com/mikeroyal/risc-v-Guide#table-of-contents)
 
+* [RISC-V Foundational Associate (RVFA) Certification](https://training.linuxfoundation.org/certification/linux-foundation-risc-v-foundational-associate/)
+* [RISC-V Fundamentals (LFD210) Course](https://training.linuxfoundation.org/training/riscv-fundamentals-lfd210/)
 * [RISC-V Learn Online Courses](https://riscv.org/community/learn/risc-v-learn-online/)
 * [RISC-V Training Partner Program](https://riscv.org/exchange/training-partner-program/)
 * [SiFive Academy RISC-V Course](https://www.sifiveacademy.com/)
