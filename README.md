@@ -323,6 +323,7 @@ Image Credit: [RISC-V](https://riscv.org/)
  * [Digital Design and Computer Architecture, RISC-V Edition](https://www.amazon.com/Digital-Design-Computer-Architecture-RISC-V/dp/0128200642)
  * [Computer Organization and Design RISC-V Edition (The Morgan Kaufmann Series in Computer Architecture and Design)](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture/dp/0128203315)
  * [The RISC-V Reader: An Open Architecture Atlas ](https://www.amazon.ca/RISC-V-Reader-Open-Architecture-Atlas/dp/0999249118)
+ * [Guide to Computer Processor Architecture: A RISC-V Approach, with High-Level Synthesis (Undergraduate Topics in Computer Science) 1st ed. 2023 Edition by Bernard Goossens](https://www.amazon.com/Guide-Computer-Processor-Architecture-Undergraduate/dp/3031180224)
  * [An Introduction to Assembly Programming with RISC-V](https://riscv-programming.org/book.html)
  * [Digital Design with Chisel Book](https://github.com/schoeberl/chisel-book)
 
