@@ -301,6 +301,7 @@ Image Credit: [RISC-V](https://riscv.org/)
 * [RISC-V Community](https://riscv.org/community/)
 * [RISC-V Main Members Group](https://lists.riscv.org/g/main)
 * [RISC-V Global Forum](https://events.linuxfoundation.org/riscv-global-forum/)
+* [Leading Semiconductor Industry Players Join Forces to Accelerate RISC-V](https://www.qualcomm.com/news/releases/2023/08/leading-semiconductor-industry-players-join-forces-to-accelerate)
 
 
 ### Learning/Training Courses
