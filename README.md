@@ -22,6 +22,7 @@
      - [Developer Resources](#developer-resources)
      - [Learning/Training Courses](#learningtraining-courses)
      - [Books](#books)
+     - [YouTube Tutorials](#youtube-tutorials)
 
 3. [RISC-V Operating Systems](#risc-v-operating-systems)
      * [Linux-based Operating Systems](#linux-based-operating-systems)
@@ -327,6 +328,21 @@ Image Credit: [RISC-V](https://riscv.org/)
  * [Guide to Computer Processor Architecture: A RISC-V Approach, with High-Level Synthesis (Undergraduate Topics in Computer Science) 1st ed. 2023 Edition by Bernard Goossens](https://www.amazon.com/Guide-Computer-Processor-Architecture-Undergraduate/dp/3031180224)
  * [An Introduction to Assembly Programming with RISC-V](https://riscv-programming.org/book.html)
  * [Digital Design with Chisel Book](https://github.com/schoeberl/chisel-book)
+
+### YouTube Tutorials
+
+[Back to the Top](#table-of-contents)
+
+[![RISC-V Week: 7 days only using RISC-V computers](https://ytcards.demolab.com/?id=Na6PT4npsMg&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "RISC-V Week: 7 days only using RISC-V computers")](https://www.youtube.com/watch?v=Na6PT4npsMg)
+[![Arm vs RISC V- What You Need to Know](https://ytcards.demolab.com/?id=GyWyikB2hFs&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Arm vs RISC V- What You Need to Know")](https://www.youtube.com/watch?v=GyWyikB2hFs)
+[![What are the differences ARM, x86 or RISC-V?](https://ytcards.demolab.com/?id=u5YvTht7mb4&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "What are the differences ARM, x86 or RISC-V?")](https://www.youtube.com/watch?v=u5YvTht7mb4)
+[![You Can Learn RISC-V Assembly in 10 Minutes | Getting Started RISC-V Assembly on Linux Tutorial](https://ytcards.demolab.com/?id=GWiAQs4-UQ0&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "You Can Learn RISC-V Assembly in 10 Minutes | Getting Started RISC-V Assembly on Linux Tutorial")](https://www.youtube.com/watch?v=GWiAQs4-UQ0)
+[![The RISC-V Revolution](https://ytcards.demolab.com/?id=Xxj_gvzS2NU&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "The RISC-V Revolution")](https://www.youtube.com/watch?v=Xxj_gvzS2NU)
+[![Why RISC-V is Inevitable, Calista Redmond, RISC-V International](https://ytcards.demolab.com/?id=ktjSvlelKPk&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Why RISC-V is Inevitable, Calista Redmond, RISC-V International")](https://www.youtube.com/watch?v=ktjSvlelKPk)
+[![Debian Linux Officially Supports This Open Architecture](https://ytcards.demolab.com/?id=3FtFFI44Yh8&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Debian Linux Officially Supports This Open Architecture")](https://www.youtube.com/watch?v=3FtFFI44Yh8)
+[![Ubuntu on RISC-V, Heinrich Schuchardt, Canonical](https://ytcards.demolab.com/?id=vTrSXESPNH0&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Ubuntu on RISC-V, Heinrich Schuchardt, Canonical")](https://www.youtube.com/watch?v=vTrSXESPNH0)
+[![RISC-V is Coming to Android (Eventually)](https://ytcards.demolab.com/?id=--nH9Ireiew&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "RISC-V is Coming to Android (Eventually)")](https://www.youtube.com/watch?v=--nH9Ireiew)
+[![Lars Bergstrom, Google - Android on RISC-V: Progress and Updates](https://ytcards.demolab.com/?id=xLwdUn3DQp8&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Lars Bergstrom, Google - Android on RISC-V: Progress and Updates")](https://www.youtube.com/watch?v=xLwdUn3DQp8)
 
 # RISC-V Operating Systems
 
