@@ -886,6 +886,8 @@ sudo qemu-system-riscv64 -nographic -machine virt \
 
 [SystemVerilog tutorial on ChipVerify](https://www.chipverify.com/systemverilog/systemverilog-tutorial)
 
+[Verilog and SystemVerilog tutorials on ChipXpert](https://chipxpert.in/tutorials/verilog/)
+
 ## Verilog/SystemVerilog Tools
 
 [Apio](https://github.com/FPGAwars/apio) is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
